@@ -6,8 +6,12 @@ questions:
 - "How much do you need to change before it is considered "yours"?"
 
 objectives:
-- "Aviod images plagiarism."
+- "Avoid images plagiarism."
 keypoints:
+- ""
+- "."
+- "."
+
 ---
 
 ## Credit:  Kate Langrell Copyright Coordinator at the University of Saskatchewan Library
