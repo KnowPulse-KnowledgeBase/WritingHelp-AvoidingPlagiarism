@@ -8,7 +8,6 @@ questions:
 objectives:
 - "Aviod images plagiarism."
 keypoints:
-
 ---
 
 ## Credit:  Kate Langrell Copyright Coordinator at the University of Saskatchewan Library
