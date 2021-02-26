@@ -6,11 +6,11 @@ questions:
 - "How much do you need to change before it is considered yours?"
 
 objectives:
-- "Backup your raw phenotypic data to KnowPulse."
+- "Aviod images plagiarism."
 keypoints:
-- "Make sure you download and use the standard data collection template for your data."
-- "Remember to backup your data with KnowPulse regularly during the growing season."
-- "Download your data files with an R-friendly header."
+- "."
+- "."
+- "."
 
 ---
 
