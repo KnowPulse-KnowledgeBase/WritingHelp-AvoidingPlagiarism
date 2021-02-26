@@ -3,7 +3,7 @@ title: "Images and plagiarism"
 teaching: 5
 exercises: 5
 questions:
-- "How do I store my raw phenotypic data in KnowPulse?"
+- "How much do you need to change before it is considered "yours"?"
 
 objectives:
 - "Backup your raw phenotypic data to KnowPulse."
