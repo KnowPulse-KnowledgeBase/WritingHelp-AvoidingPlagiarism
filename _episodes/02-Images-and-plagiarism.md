@@ -1,7 +1,7 @@
 ---
 title: "Images and plagiarism"
-teaching: 10
-exercises: 20
+teaching: 5
+exercises: 5
 questions:
 - "How do I store my raw phenotypic data in KnowPulse?"
 
