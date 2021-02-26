@@ -1,16 +1,18 @@
 ---
 title: "Images and plagiarism"
-teaching: 5
-exercises: 5
+teaching: 10
+exercises: 20
 questions:
-- "How much do you need to change before it is considered "yours"?"
+- "How do I store my raw phenotypic data in KnowPulse?"
 
 objectives:
-- "Avoid images plagiarism."
+- "Backup your raw phenotypic data to KnowPulse."
 keypoints:
-- ""
-- "."
-- "."
+- "Make sure you download and use the standard data collection template for your data."
+- "Remember to backup your data with KnowPulse regularly during the growing season."
+- "Download your data files with an R-friendly header."
+
+---
 
 ---
 
