@@ -8,9 +8,9 @@ questions:
 objectives:
 - "Aviod images plagiarism when you are writting a thesis."
 keypoints:
-- "."
-- "."
-- "."
+- "It's safe to use an image directly that is substantially different than the original in your thesis."
+- "You will need to ask for permission from the copyright holder(s) if the image you created looks mostly/entirely like the original."
+- "For more specific questions, please contact Kate Langrell."
 
 ---
 
