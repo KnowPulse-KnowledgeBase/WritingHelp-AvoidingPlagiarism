@@ -16,11 +16,14 @@ keypoints:
 
 ---
 
-### The following context originally presents in a question-answer format between Dr. Bett's team and Kate Langrell. Kate Langrell is working as a copyright coordinator at the library, University of Saskatchewan. Kate Langrell  approached the question from the perspective of using such images in a thesis. Any question regarding images being submitted to a publication, please contact Kate directly [Kate Langrell](https://library.usask.ca/copyright/about-us/kate-langrell.php)
+### Please Note
+The following context originally presents in a question-answer format between Dr. Bett's team and Kate Langrell. Kate Langrell is working as a copyright coordinator at the library, University of Saskatchewan. Kate Langrell  approached the question from the perspective of using such images in a thesis. Any question regarding images being submitted to a publication, please contact [Kate Langrell](https://library.usask.ca/copyright/about-us/kate-langrell.php) directly. 
 
-### If the image that you are creating looks substantially different than the original(s), I do not think that copyright permission would be needed (i.e., the image would be your own). 
+### Case 1: 
+If the image that you are creating looks substantially different than the original(s), I do not think that copyright permission would be needed (i.e., the image would be your own). 
 
-### If the image that you create looks mostly or entirely like a copy of the original(s), then I think that would require permission from the copyright holder(s).
+### Case 2: 
+If the image that you create looks mostly or entirely like a copy of the original(s), then I think that would require permission from the copyright holder(s).
 
 ### It is difficult to describe how to make your own image “different enough” from the original in order not to require copyright permission. 
 It’s somewhat of a grey area and can depend on the type of images you’re working with. If you are combining elements of different images into a new single image, then it might be possible to use that in your thesis without needing copyright permission. 
