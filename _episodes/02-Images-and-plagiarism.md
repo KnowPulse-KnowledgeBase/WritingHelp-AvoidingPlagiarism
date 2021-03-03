@@ -25,6 +25,7 @@ If the image that you are creating looks substantially different than the origin
 ### Case 2: 
 If the image that you create looks mostly or entirely like a copy of the original(s), then I think that would require permission from the copyright holder(s).
 
+### Overall
 It is difficult to describe how to make your own image “different enough” from the original in order not to require copyright permission. 
 It’s somewhat of a grey area and can depend on the type of images you’re working with. If you are combining elements of different images into a new single image, then it might be possible to use that in your thesis without needing copyright permission. 
 
