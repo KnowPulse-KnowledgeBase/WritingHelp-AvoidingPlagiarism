@@ -6,7 +6,7 @@ questions:
 - "How much do you need to change before it is considered yours?"
 
 objectives:
-- "Aviod images plagiarism."
+- "Aviod images plagiarism when you are writting a thesis."
 keypoints:
 - "."
 - "."
@@ -16,7 +16,7 @@ keypoints:
 
 ---
 
-## Credit:  Kate Langrell Copyright Coordinator at the University of Saskatchewan Library
+### Credit:  The following context originally presents in a question-answer format between Dr. Bett's team and Kate Langrell. Kate Langrell is working as a copyright coordinator at the library, University of Saskatchewan. Kate Langrell  approached the question from the perspective of using such images in a thesis. Any question regarding images being submitted to a publication, please contact Kate directly via![Screenshot of main code listing](fig/WritingHelp-AviodingPlagiarism-1.png)
 
 ### If the image that you are creating looks substantially different than the original(s), I do not think that copyright permission would be needed (i.e., the image would be your own). 
 
