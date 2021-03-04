@@ -24,7 +24,7 @@ learn:
 - "How to paraphrase other people's work wisely?"
 - "How to aviod image plagiarism?"
 - "How to better cite other people's data?"
-- "How to avoid slef-plagiarism?"
+- "How to avoid self-plagiarism?"
 
 data-description: "NA"
 ---
