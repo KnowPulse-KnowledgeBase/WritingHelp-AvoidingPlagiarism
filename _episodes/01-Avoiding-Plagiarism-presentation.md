@@ -1,3 +1,28 @@
+---
+title: "Avoiding Plagiarism presentation"
+teaching: 31
+exercises: 31
+questions:
+- "How to avoid plagiarism--language matters."
+
+objectives:
+- "Avoid images plagiarism when you are writing a thesis."
+keypoints:
+- "Usask Wrirting Resource."
+
+
+---
+
+---
+
+### Paraphrase
+- This is not just a matter of using synonyms
+- Create a new sentence structure
+- Present in a distict way
+- Preserve the essence of original text
+- add our own “Scholarly voice”
+- It should sounds like it should be written by someone else
+
 {% assign url_prefix = site.baseurl | append: "/assets/videos" %}
 
 <video width="800" height="450" controls>
