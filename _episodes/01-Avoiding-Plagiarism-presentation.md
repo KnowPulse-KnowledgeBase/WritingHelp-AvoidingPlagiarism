@@ -15,6 +15,8 @@ keypoints:
 
 ---
 
+{% assign url_prefix = site.baseurl | append: "/assets/videos" %}
+
 ### Paraphrase
 - This is not just a matter of using synonyms
 - Create a new sentence structure
@@ -22,8 +24,6 @@ keypoints:
 - Preserve the essence of original text
 - add our own “Scholarly voice”
 - It should sounds like it should be written by someone else
-
-{% assign url_prefix = site.baseurl | append: "/assets/videos" %}
 
 <video width="800" height="450" controls>
  <source src="{{url_prefix}}/drupal-tripal-explainer.mp4" type="video/mp4">
