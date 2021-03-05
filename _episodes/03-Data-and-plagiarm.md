@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Aviod data plagiarism."
 keypoints:
--"Check the data repository website to see their data citing guidelines"
+-"Check the data repository website to see its data citing guidelines"
 ---
 
 ### Please Note
