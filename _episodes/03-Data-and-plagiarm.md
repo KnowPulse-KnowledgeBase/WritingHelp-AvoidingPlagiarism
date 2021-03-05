@@ -6,10 +6,13 @@ questions:
 - "How to give attribution to where you got the data besides cite the original author?"
 
 objectives:
-- "Aviod data plagiarism."
+- "Avoid data plagiarism when using other people's data."
 keypoints:
--"Check the data repository website to see its data citing guidelines"
+- "Check the data repository website to see its data citing guidelines"
+
+
 ---
+
 ---
 ### Please Note
 The following context originally presents in a question-answer format between Dr. Bett's team and Kate Langrell. Kate Langrell is a copyright coordinator on the library staff at the University of Saskatchewan. Kate approached the question from the perspective of using such images in a thesis. Any question regarding images being submitted to a publication, please contact [Kate Langrell](https://library.usask.ca/copyright/about-us/kate-langrell.php) directly. 
