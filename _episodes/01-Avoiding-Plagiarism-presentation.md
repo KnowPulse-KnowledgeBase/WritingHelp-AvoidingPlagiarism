@@ -15,15 +15,33 @@ keypoints:
 
 ---
 
-{% assign url_prefix = site.baseurl | append: "/assets/videos" %}
+## Presentation Summary
 
 ### Paraphrase
-- This is not just a matter of using synonyms
-- Create a new sentence structure
+- Not just a matter of using synonyms
+- You need to create a new sentence structure
 - Present in a distict way
 - Preserve the essence of original text
-- add our own “Scholarly voice”
+- Add our own “Scholarly voice”
 - It should sounds like it should be written by someone else
+
+### Steps
+1. Ensure you understand the work you want to cite.
+- What key ideas can we highlight?
+- By using your own words to show you understand the key ideas you develop vocabulary to use in your paraphrase
+
+2. Just try it then evaluate your attempt. You should use many of the following techniques rather then just a few.
+3. Add the citation.
+
+**Ideally you would write the first draft without looking at the original!**
+
+### Techniques
+
+
+
+
+{% assign url_prefix = site.baseurl | append: "/assets/videos" %}
+
 
 <video width="800" height="450" controls>
  <source src="{{url_prefix}}/Avoiding-plagiarism-presentation.mp4" type="video/mp4">
