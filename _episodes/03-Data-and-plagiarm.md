@@ -10,7 +10,7 @@ objectives:
 keypoints:
 -"Check the data repository website to see its data citing guidelines"
 ---
-
+---
 ### Please Note
 The following context originally presents in a question-answer format between Dr. Bett's team and Kate Langrell. Kate Langrell is a copyright coordinator on the library staff at the University of Saskatchewan. Kate approached the question from the perspective of using such images in a thesis. Any question regarding images being submitted to a publication, please contact [Kate Langrell](https://library.usask.ca/copyright/about-us/kate-langrell.php) directly. 
 
