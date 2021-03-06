@@ -3,12 +3,13 @@ title: "Avoiding Plagiarism presentation"
 teaching: 31
 exercises: 31
 questions:
-- "How to avoid plagiarism--language matters."
+- "How to use words from other people's work?"
 
 objectives:
-- "Avoid images plagiarism when you are writing a thesis."
+- "Use your unique language."
 keypoints:
-- "Usask Wrirting Resource."
+- "Synonyms can help to create some differences, but don't rely on this technique too heavily."
+- "Change sentence length/structrue, information order to ..." 
 
 
 ---
