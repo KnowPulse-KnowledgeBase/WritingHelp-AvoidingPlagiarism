@@ -51,7 +51,7 @@ keypoints:
 - Math Help
 - Grad Skills
 - Research Support
-- Witting Help
+- Writing Help
 2.  [University Library Writing Help](https://library.usask.ca/studentlearning/writing-help/#OnlineWritingHelp)
 3.  [Grad Help Online Resources](https://libguides.usask.ca/gradhelp)
 4.  Ask [Jill McMillan](https://library.usask.ca/people/jill-mcmillan.php) a specific question. 
