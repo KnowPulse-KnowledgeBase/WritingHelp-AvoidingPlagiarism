@@ -34,7 +34,7 @@ keypoints:
 2. Just try it then evaluate your attempt. Use multiple techniques from the following rather than just a few.
 3. Add the citation.
 
-**Ideally you would write the first draft without looking at the original!**
+** PS: Ideally you would write the first draft without looking at the original!**
 
 ### Techniques
 - Synonyms can help to create some differences, but don't rely on this technique too heavily.
