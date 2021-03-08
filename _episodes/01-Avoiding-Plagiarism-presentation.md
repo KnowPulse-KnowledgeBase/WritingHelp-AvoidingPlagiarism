@@ -3,7 +3,7 @@ title: "Avoiding Plagiarism presentation"
 teaching: 31
 exercises: 31
 questions:
-- "How to cite other people's work?"
+- "How to cite other researcher's work?"
 
 objectives:
 - "Avoid plagiarism in your writing."
