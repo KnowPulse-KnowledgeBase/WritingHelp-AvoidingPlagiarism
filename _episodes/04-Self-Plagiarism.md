@@ -3,7 +3,7 @@ title: "Self-plagiarism"
 teaching: 10
 exercises: 10
 questions:
-- "What is, and how to avoid self plagiarism?"
+- "What is, and how to avoid self-plagiarism?"
 
 objectives:
 - "Avoid self-plagiarism in your writing."
