@@ -10,7 +10,7 @@ objectives:
 keypoints:
 - "References are required when using other people's work."
 - "Use your unique language but keep the same meaning from the original work."
-- "Changes in sentence length/structure, information order are all good techniques to use." 
+- "Changes in sentence length/structure or information order are all good techniques to use." 
 
 ---
 
