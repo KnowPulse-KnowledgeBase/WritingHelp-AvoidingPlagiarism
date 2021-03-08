@@ -1,5 +1,5 @@
 ---
-title: "Avoiding Plagiarism presentation"
+title: "Avoiding Plagiarism Presentation"
 teaching: 31
 exercises: 31
 questions:
