@@ -26,7 +26,7 @@ keypoints:
 - Add our own “Scholarly voice”
 - It should sounds like it is be written by someone else
 
-### Steps
+### Steps to approach
 1. Ensure you understand the work you want to cite.
 - What key ideas can you highlight?
 - Using the key ideas to develop new vocabulary to use in your paraphrase
