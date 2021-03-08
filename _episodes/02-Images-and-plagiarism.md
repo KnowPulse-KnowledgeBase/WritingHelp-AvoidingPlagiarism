@@ -6,7 +6,7 @@ questions:
 - "How much do you need to change before it is considered yours?"
 
 objectives:
-- "Avoid images plagiarism when you are writing a thesis."
+- "Avoid image plagiarism when writing your thesis."
 keypoints:
 - "It's safe to use an image directly that is substantially different than the original in your thesis."
 - "Permission from the copyright holder(s) is needed if the image you created looks mostly/entirely like the original."
