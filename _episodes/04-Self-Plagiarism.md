@@ -1,5 +1,5 @@
 ---
-title: "Avoiding Self-plagiarism"
+title: "Self-plagiarism"
 teaching: 10
 exercises: 10
 questions:
