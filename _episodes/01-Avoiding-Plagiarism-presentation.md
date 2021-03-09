@@ -16,6 +16,15 @@ keypoints:
 
 ---
 
+{% assign url_prefix = site.baseurl | append: "/assets/video" %}
+
+
+<video width="800" height="450" controls>
+ <source src="{{url_prefix}}/Avoiding-plagiarism-presentation.mp4" type="video/mp4">
+Your browser does not support the video tag.
+</video>
+
+
 ## Presentation Summary (If you have no time to watch the video)
 
 ### Paraphrase
@@ -55,15 +64,6 @@ keypoints:
 2.  [University Library Writing Help](https://library.usask.ca/studentlearning/writing-help/#OnlineWritingHelp)
 3.  [Grad Help Online Resources](https://libguides.usask.ca/gradhelp)
 4.  Ask [Jill McMillan](https://library.usask.ca/people/jill-mcmillan.php) a specific question. 
-
-
-{% assign url_prefix = site.baseurl | append: "/assets/videos" %}
-
-
-<video width="800" height="450" controls>
- <source src="{{url_prefix}}/Avoiding-plagiarism-presentation.mp4" type="video/mp4">
-Your browser does not support the video tag.
-</video>
 
 
 
