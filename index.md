@@ -21,10 +21,10 @@ why: "This lesson is aiming to help researchers avoid plagiarism by demonstratin
 
 # A short list of items researchers will learn in this lesson.
 learn:
-- "How to paraphrase other researchers' work wisely?"
-- "How to avoid image plagiarism?"
-- "How to better cite other researchers' data?"
-- "How to avoid self-plagiarism?"
+- "How to paraphrase other researchers' work wisely"
+- "How to avoid image plagiarism"
+- "How to better cite other researchers' data"
+- "How to avoid self-plagiarism"
 
 data-description: "Not Applicable to this Lesson"
 ---
