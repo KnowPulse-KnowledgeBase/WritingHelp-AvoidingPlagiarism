@@ -22,11 +22,11 @@ why: "This lesson is aiming to help researchers avoid plagiarism by demonstratin
 # A short list of items researchers will learn in this lesson.
 learn:
 - "How to paraphrase other researchers' work wisely?"
-- "How to aviod image plagiarism?"
+- "How to avoid image plagiarism?"
 - "How to better cite other researchers' data?"
 - "How to avoid self-plagiarism?"
 
-data-description: "NA"
+data-description: "Not Applicable to this Lesson"
 ---
 
 The KnowPulse KnowledgeBase focuses on short question-based lessons to help researchers get their work done.
