@@ -3,7 +3,7 @@ title: "Images and plagiarism"
 teaching: 5
 exercises: 5
 questions:
-- "How much do you need to change before it is considered yours?"
+- "How much do you need to change on the image before it is considered yours?"
 
 objectives:
 - "Avoid image plagiarism when writing your thesis."
