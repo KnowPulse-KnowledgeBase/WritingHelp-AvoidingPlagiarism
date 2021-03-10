@@ -16,6 +16,8 @@ keypoints:
 
 ---
 
+## Feel free to use the silence in between to think about and write your own answers to the posted questions.
+
 {% assign url_prefix = site.baseurl | append: "/assets/video" %}
 
 
