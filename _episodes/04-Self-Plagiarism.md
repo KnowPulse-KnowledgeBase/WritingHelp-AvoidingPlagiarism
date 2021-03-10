@@ -15,8 +15,8 @@ keypoints:
 ---
 
 ### What is self-plagiarism?
-[Self-plagiarism: An introduction](https://cgps.usask.ca/onboarding/connecting-out/2self-plagiarism-an-introduction.php)
-[Text Recycling in Scientific Writing](https://link.springer.com/article/10.1007/s11948-017-0008-y)
+- [Self-plagiarism: An introduction](https://cgps.usask.ca/onboarding/connecting-out/2self-plagiarism-an-introduction.php)
+- [Text Recycling in Scientific Writing](https://link.springer.com/article/10.1007/s11948-017-0008-y)
 
 ### How to avoid self-plagiarism?
 [Avoiding plagiarism, self-plagiarism, and other questionable writing practices: A guide to ethical writing](https://cse.msu.edu/~alexliu/plagiarism.pdf)
