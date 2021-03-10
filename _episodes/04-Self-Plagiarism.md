@@ -8,7 +8,7 @@ questions:
 objectives:
 - "Avoid self-plagiarism in your writing."
 keypoints:
-- "It's essential to understand the definition of Self-plagiarism in your field of research."
+- "It's essential to understand the definition of self-plagiarism in your field of research."
 
 ---
 
