@@ -33,12 +33,12 @@ Your browser does not support the video tag.
 - Present in a distict way
 - Preserve the essence of original text
 - Add our own “Scholarly voice”
-- It should sounds like it is be written by someone else
+- It should sound like it has been written by someone else
 
 ### Steps
 1. Ensure you understand the work you want to cite.
 - What key ideas can you highlight?
-- Using the key ideas to develop new vocabulary to use in your paraphrase.
+- Use the key ideas to develop new vocabulary to use in your paraphrase.
 
 2. Just try it then evaluate your attempt. Use multiple techniques from the following rather than just a few.
 3. Add the citation.
@@ -48,9 +48,9 @@ Your browser does not support the video tag.
 ### Techniques
 - Synonyms can help to create some differences, but don't rely on this technique too heavily.
 - Change the order of the information provided: focus on the key point and start there.
-- Change sentnce structure, change sentence length, active vs. passive sentences; change parts of speach, verb vs. noun
+- Change sentence structure, change sentence length, active vs. passive sentences; change parts of speach, verb vs. noun
 - Use difference punctuation (use semi-colons to join two ideas).
-- Having style or sence of voice, but make sure the quote matches the style of the rest of your work. 
+- Having style or sense of voice. Make sure the quote matches the style of the rest of your work. 
 - Use quotation marks for 4+ content words in a row.
 - Use signal words like “reported by”.
 
