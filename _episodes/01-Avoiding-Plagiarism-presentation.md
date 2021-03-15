@@ -32,7 +32,7 @@ Your browser does not support the video tag.
 ### Paraphrase
 - Not just a matter of using synonyms
 - You need to create a new sentence structure
-- Present in a distict way
+- Present in a distinct way
 - Preserve the essence of original text
 - Add our own “Scholarly voice”
 - It should sound like it has been written by someone else
@@ -50,7 +50,7 @@ Your browser does not support the video tag.
 ### Techniques
 - Synonyms can help to create some differences, but don't rely on this technique too heavily.
 - Change the order of the information provided: focus on the key point and start there.
-- Change sentence structure, change sentence length, active vs. passive sentences; change parts of speach, verb vs. noun
+- Change sentence structure, change sentence length, active vs. passive sentences, change parts of speach, verb vs. noun
 - Use difference punctuation (use semi-colons to join two ideas).
 - Having style or sense of voice. Make sure the quote matches the style of the rest of your work. 
 - Use quotation marks for 4+ content words in a row.
