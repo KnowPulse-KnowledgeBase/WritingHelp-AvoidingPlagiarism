@@ -3,7 +3,7 @@ layout: lesson
 root: .
 # Overall title for the Lesson.
 # This should be in the form of a question if possible.
-title: "How to avoid plagiarism in adacemic writing?"
+title: "How to avoid plagiarism in academic writing?"
 
 # Single Sentence purpose for this lesson.
 short-purpose: "This lesson will show you some useful techniques to help avoid plagiarism in your academic writing."
