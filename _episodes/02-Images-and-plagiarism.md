@@ -23,7 +23,7 @@ The following context originally presents in a question-answer format between Dr
 If the image that you are creating looks substantially different than the original(s), copyright permission is not required (i.e., the image is considered your own). 
 
 ### Case 2: 
-If the image that you create looks mostly or entirely like a copy of the original(s), then this require permission from the copyright holder(s).
+If the image that you create looks mostly or entirely like a copy of the original(s), then this requires permission from the copyright holder(s).
 
 ### Overall
 It is difficult to describe how to make your own image “different enough” from the original in order not to require copyright permission. 
